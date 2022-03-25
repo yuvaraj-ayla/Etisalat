@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aylanetworks.aylasdk" >
+
+    <!-- uses-permission: Make sure all permissions are documented as to the reasons they are there,
+         as well as documenting whether or not the permission is required or optional (only optional
+         on Marshmallow+) -->
+
+</manifest>
